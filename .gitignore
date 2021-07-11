@@ -2,9 +2,3 @@
 *.iml
 target/
 *.DS_Store
-
-application-local.properties
-application-prod.properties
-application-grpc-local.properties
-application-user-local.properties
-application-file-local.properties
